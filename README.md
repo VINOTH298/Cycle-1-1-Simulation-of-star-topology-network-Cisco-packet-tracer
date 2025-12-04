@@ -33,14 +33,8 @@ To simulate a network with topology using Cisco Packet Tracer and verify connect
 
 ## 📊 IP CONNECTIVITY TABLE
 
-| SENDER/RECEIVER | PC0 | PC1 | PC2 | PC3 | PC4 | PC5 |
-|------------------|-----|-----|-----|-----|-----|-----|
-| PC0              |     |     |     |     |     |     |
-| PC1              |     |     |     |     |     |     |
-| PC2              |     |     |     |     |     |     |
-| PC3              |     |     |     |     |     |     |
-| PC4              |     |     |     |     |     |     |
-| PC5              |     |     |     |     |     |     |
+<img width="1919" height="569" alt="image" src="https://github.com/user-attachments/assets/6a1d26a1-8164-4af1-8aa4-2011234a395c" />
+
 
 ## 🗺️ NETWORK DIAGRAM
 ---
@@ -72,8 +66,8 @@ C:\> ipconfig /all
 ## C:\tracert www.saveetha.ac.in
 
 ## OUTPUT
----
-<img width="1088" height="796" alt="image" src="https://github.com/user-attachments/assets/39cc071d-feae-4f5e-b8a6-f2b7a155daf0" />
+---<img width="1139" height="684" alt="image" src="https://github.com/user-attachments/assets/6d940f5d-8f6d-41d0-a65b-635ed00e8820" />
+
 
 ## RESULT
 Thus the computers in same network are able to communicate with each other and the communication between them were verified
